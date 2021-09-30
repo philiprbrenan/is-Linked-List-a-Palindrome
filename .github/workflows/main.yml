@@ -12,4 +12,4 @@ jobs:
 
     - name: Test
       run: |
-       java -ea isPalindrome.java
+       java -ea IsPalindrome.java
