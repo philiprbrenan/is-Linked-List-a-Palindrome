@@ -1,2 +1,5 @@
 # is-Linked-List-a-Palindrome?
-Returns true if the Linked-List is a Palindrome, false otherwise
+
+![Test](https://github.com/banevare/is-Linked-List-a-Palindrome/workflows/Test/badge.svg)
+
+Tests singlely linked lists to see if they represent palindromes or not.
